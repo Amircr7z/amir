@@ -1,0 +1,5 @@
+{
+  "name": "CARV Mini Arcade — Quiz",
+  "description": "A single-game Quiz MVP that integrates wallet authentication. Test your knowledge on Blockchain, Projects, Tokenomics, and Technical topics to earn points and climb the leaderboard.",
+  "requestFramePermissions": []
+}
